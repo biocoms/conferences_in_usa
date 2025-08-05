@@ -16,7 +16,6 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 
 ## Microbiome/Host-microbe interactions
 
-
 | Conference Name                                                 | Dates              | Location              | Abstract Deadline                    | Link |
 |----------------------------------------------------------------------------------|--------------------|------------------------|---------------------------------------|------|
 | 10th Annual Translational Microbiome Conference (TMC)                           | Apr 10–11, 2025    | Boston, MA             | ~April 2025 (TBA; check site)         | [microbiomeconference.com](https://www.microbiomeconference.com/) |
@@ -26,3 +25,15 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 | Conference on Beneficial Microbes (CBM/ISS)                                     | Jul 19–23, 2026    | Madison, WI            | Late 2025 (competitive; TBA)          | [conferences.union.wisc.edu](https://conferences.union.wisc.edu/microbes/) |
 | ASM Microbe Meeting (ASM Microbe)                                               | Jun 4–8, 2026      | Washington, DC         | Call for late-breaking abstracts Apr 1–15, 2026 | [asm.org](https://asm.org/events/asm-microbe/home) |
 | Microbiome and Cancer Symposium (MCS)                                           | Oct 17, 2025       | Minneapolis, MN        | Abstracts due Aug 31, 2025            | [cancer.umn.edu](https://cancer.umn.edu/events/microbiome-and-cancer-symposium-3) |
+
+## Omics/Sequencing
+
+| Conference Name                                                | Dates              | Location              | Abstract Deadline                    | Link |
+|----------------------------------------------------------------------------------|--------------------|------------------------|---------------------------------------|------|
+| ASM Conference on Rapid Applied Microbial NGS & Bioinformatics (ASM NGS)        | Oct 11–14, 2026    | Washington, DC         | TBA (typically summer 2026)           | [asm.org](https://asm.org/events/asm-ngs/home) |
+| Festival of Genomics & Biodata Boston (FOG Boston)                              | Jun 3–4, 2026      | Boston, MA             | No abstract; speaker call opens early 2026 | [festivalofgenomics.com](https://festivalofgenomics.com/boston) |
+| NextGen Omics, Spatial & Data US (NGOUS)                                        | Mar 31–Apr 1, 2026 | Boston, MA             | TBA (usually Jan–Feb 2026)            | [oxfordglobal.com](https://oxfordglobal.com/precision-medicine/events/nextgen-omics-us) |
+| Spatial Biology & Single‑Cell Multiomics Symposium (TRI‑SCMO)                   | Mar 11–12, 2025    | San Diego, CA          | TBA (likely Feb–Mar 2025)             | [triconference.com](https://www.triconference.com/spatial-biology) |
+| 9th Single‑Cell Proteomics Conference (SCP2026)                                 | Jul 14–15, 2026    | Boston, MA             | Registration opens early 2026 (TBA)   | [single-cell.net](https://single-cell.net/proteomics/scp2026) |
+| Multi‑Omics Based Drug Discovery & Development Summit (MOMD)                    | 2025 (TBD)         | USA (rotating)         | Call opens mid‑2025 (TBA)             | [multi-omics-drug-discovery.com](https://multi-omics-drug-discovery.com/) |
+| Association of Biomolecular Resource Facilities Annual Meeting (ABRF)           | Mar 23–28, 2025    | Las Vegas, NV          | Abstracts accepted early 2025 (TBA)   | [abrf.org](https://abrf.org) |
