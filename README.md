@@ -10,10 +10,10 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 
 | Conference Name                                                                 | Dates           | Location             | Abstract Deadline                     | Link |
 |----------------------------------------------------------------------------------|------------------|----------------------|----------------------------------------|------|
-| Pacific Symposium on Biocomputing (PSB)                                         | Jan 3–7, 2026    | Big Island, HI       | Opens late 2025 (TBA)                 | [psb.stanford.edu](https://psb.stanford.edu) |
-| ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) | Oct 11–15, 2025  | Philadelphia, PA     | Abstract: Jun 30 · Full Paper: Jul 7  | [acm-bcb.org](https://acm-bcb.org) |
-| Intelligent Systems for Molecular Biology (ISMB)                                | Jul 12–16, 2026  | Washington, DC       | Expected Apr 2026 (TBA)               | [iscb.org](https://www.iscb.org/ismb2026) |
-| Cold Spring Harbor Laboratory Genome Informatics Meeting (CSHL Genome Informatics) | Nov 5–8, 2025    | Cold Spring Harbor, NY | Abstract: Aug 22, 2025             | [meetings.cshl.edu](https://meetings.cshl.edu/meetings.aspx?meet=GENINFO&year=25) |
+| Pacific Symposium on Biocomputing (PSB)                                         | Jan 3–7, 2026    | Big Island, HI       | August 1, 2025                 | [psb.stanford.edu](https://psb.stanford.edu) |
+| ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) | Oct 11–15, 2025  | Philadelphia, PA     | August 29, 2025  | [acm-bcb.org](https://acm-bcb.org) |
+| Intelligent Systems for Molecular Biology (ISMB)                                | Jul 12–16, 2026  | Washington, DC       | TBA               | [iscb.org](https://www.iscb.org/ismb2026) |
+| Cold Spring Harbor Laboratory Genome Informatics Meeting (CSHL Genome Informatics) | Nov 5–8, 2025    | Cold Spring Harbor, NY | Aug 22, 2025             | [meetings.cshl.edu](https://meetings.cshl.edu/meetings.aspx?meet=INFO) |
 
 ## Microbiome/Host–Microbe Interactions
 
