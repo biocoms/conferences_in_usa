@@ -1,7 +1,10 @@
 # Conferences
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16749586.svg)](https://doi.org/10.5281/zenodo.16749585)
+
 This is a comprehensive list of conferences in the next available academic year. (Will be updated regularly)
 
-This list covers conferences in Microbiome, Dental research, Toxicology, Informatics and Computational Biology.
+This list covers conferences in Microbiome, Dental research, Toxicology, Informatics, and Computational Biology.
 
 ## Computational Biology/Bioinformatics
 
