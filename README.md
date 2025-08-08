@@ -16,6 +16,7 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 | Cold Spring Harbor Laboratory Genome Informatics Meeting (CSHL Genome Informatics) | Nov 5–8, 2025    | Cold Spring Harbor, NY | Aug 22, 2025             | [More](https://meetings.cshl.edu/meetings.aspx?meet=INFO) |
 | Great Lakes Bioinformatics (GLBIO) conference | TBA    | TBA | TBA             | TBA |
 
+
 ## Omics/Sequencing
 
 | Conference Name                                                              | Dates              | Location              | Abstract Deadline                    | Link |
@@ -65,9 +66,9 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 
 
 
-## Data Analysis & Statistics (USA | Sep 2025–Dec 2026)
+## Data Analysis & Statistics
 
-| Conference Name (Abbrev.)                                | Dates              | Location                | Abstract Deadline                  | Link |
+| Conference Name                              | Dates              | Location                | Abstract Deadline                  | Link |
 |----------------------------------------------------------|--------------------|-------------------------|----------------------------------------------------|------|
 | Spring Research Conference in Statistics and Data Science (SRC) | May 26–28, 2026   | Clemson, SC             | Abstract/registration opens early 2026            | [More](https://community.amstat.org/spes/events/springresearchconference) |
 | Machine Learning for Health Symposium (ML4H) | Dec 1–2, 2025        | San Diego, CA       | Abstracts typically due Sept 2025 (TBA)   | [More](https://ahli.cc/ml4h) |
