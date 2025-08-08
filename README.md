@@ -14,6 +14,7 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 | ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) | Oct 11–15, 2025  | Philadelphia, PA     | August 29, 2025  | [acm-bcb.org](https://acm-bcb.org) |
 | Intelligent Systems for Molecular Biology (ISMB)                                | Jul 12–16, 2026  | Washington, DC       | TBA               | [iscb.org](https://www.iscb.org/ismb2026) |
 | Cold Spring Harbor Laboratory Genome Informatics Meeting (CSHL Genome Informatics) | Nov 5–8, 2025    | Cold Spring Harbor, NY | Aug 22, 2025             | [meetings.cshl.edu](https://meetings.cshl.edu/meetings.aspx?meet=INFO) |
+| Great Lakes Bioinformatics (GLBIO) conference | TBA    | TBA | TBA             | TBA |
 
 ## Microbiome/Host–Microbe Interactions
 
@@ -56,6 +57,13 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 | NACCT 2026 (North American Congress of Clinical Toxicology) | Oct 21–25, 2026    | San Diego, CA        | Abstracts likely Feb–Apr 2026 (TBD; based on prior years)             | [clintox.org](https://www.clintox.org/nacct) |
 | MATT 2026 (Midwest Assoc. for Toxicology & Therapeutic Drug Monitoring) | Apr 2026 (TBD) | Cincinnati, OH       | Regional abstracts typically due ~Feb–Mar 2026 (TBA)                  | [midwesttox.org](https://www.midwesttox.org/) |
 | ISES‑ISEE Joint Annual Meeting          | Aug 17–20, 2025     | Atlanta, GA         | Abstracts late spring 2025; registration by Jul 31, 2025 | [iseepi.org](https://www.isesisee2025.org) |
+
+## Oral/Dental
+
+| Conference Name (Abbrev.)                                                      | Dates                | Location            | Abstract Deadline                          | Link |
+|---------------------------------------------------------------------------------|-----------------------|---------------------|---------------------------------------------|------|
+| IADR / AADOCR / CADR General Session & Exhibition (IADR)                       | Mar 25–28, 2026       | San Diego, CA        | Abstracts due Oct 22, 2025; Sessions by Sep 29, 2025 | [iadr.org](https://www.iadr.org/events/upcoming-events/iadraadocrcadr-general-session-exhibition) |
+
 
 ## One health
 
