@@ -15,6 +15,9 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 | Intelligent Systems for Molecular Biology (ISMB)                                | Jul 12–16, 2026  | Washington, DC       | TBA               | [More](https://www.iscb.org/ismb2026) |
 | Cold Spring Harbor Laboratory Genome Informatics Meeting (CSHL Genome Informatics) | Nov 5–8, 2025    | Cold Spring Harbor, NY | Aug 22, 2025             | [More](https://meetings.cshl.edu/meetings.aspx?meet=INFO) |
 | Great Lakes Bioinformatics (GLBIO) conference | TBA    | TBA | TBA             | TBA |
+| RECOMB/ISCB Dream Challenges | TBA | TBA | TBA | [More](https://dreamchallenges.org/conferences/)|
+| CAMDA 2026 | TBA | TBA | TBA | [More}(
+
 
 
 ## Omics/Sequencing
