@@ -13,7 +13,7 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 |----------------------------------------------------------------------------------|------------------|----------------------|----------------------------------------|------|
 | Pacific Symposium on Biocomputing (PSB)                                         | Jan 3–7, 2026    | Big Island, HI       | August 1, 2025                 | [More](https://psb.stanford.edu) |
 | ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) | Oct 11–15, 2025  | Philadelphia, PA     | August 29, 2025  | [More](https://acm-bcb.org) |
-| Intelligent Systems for Molecular Biology (ISMB)                                | Jul 12–16, 2026  | Washington, DC       | TBA               | [More](https://www.iscb.org/ismb2026) |
+| Intelligent Systems for Molecular Biology (ISMB)                                | Jul 12–16, 2026  | Washington, DC       | April 9, 2026               | [More](https://www.iscb.org/ismb2026) |
 | Cold Spring Harbor Laboratory Genome Informatics Meeting (CSHL Genome Informatics) | Nov 5–8, 2025    | Cold Spring Harbor, NY | Aug 22, 2025             | [More](https://meetings.cshl.edu/meetings.aspx?meet=INFO) |
 | Great Lakes Bioinformatics (GLBIO) conference | TBA    | TBA | TBA             | TBA |
 | RECOMB/ISCB Dream Challenges | TBA | TBA | TBA | [More](https://dreamchallenges.org/conferences/)|
