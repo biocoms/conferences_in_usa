@@ -25,7 +25,7 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 
 | Conference Name                                                              | Dates              | Location              | Abstract Deadline                    | Link |
 |------------------------------------------------------------------------------|--------------------|------------------------|---------------------------------------|------|
-| ASM Conference on Rapid Applied Microbial NGS & Bioinformatics (ASM NGS)    | Oct 11–14, 2026    | Washington, DC         | TBA (typically summer 2026)           | [More](https://asm.org/events/asm-ngs/home) |
+| ASM BIG - Bioinformatics, Genomics, and Big Data Conference   | Oct 11–14, 2026    | Washington, DC         | TBA (typically summer 2026)           | [More](https://asm.org/events/asm-big/home) |
 | Festival of Genomics & Biodata Boston (FOG Boston)                          | Jun 3–4, 2026      | Boston, MA             | No abstract; speaker call opens early 2026 | [More](https://festivalofgenomics.com/boston) |
 | NextGen Omics, Spatial & Data US (NGOUS)                                    | Mar 31–Apr 1, 2026 | Boston, MA             | TBA (usually Jan–Feb 2026)            | [More](https://oxfordglobal.com/precision-medicine/events/nextgen-omics-us) |
 | 9th Single‑Cell Proteomics Conference (SCP2026)                             | Jul 14–15, 2026    | Boston, MA             | Registration opens early 2026 (TBA)   | [More](https://single-cell.net/proteomics/scp2026) |
