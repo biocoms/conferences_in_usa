@@ -32,7 +32,7 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 
 ## Microbiome/Microbes
 
-| Conference Name (Abbrev.)                                                     | Dates               | Location                | Abstract Deadline               | Link |
+| Conference Name                                                  | Dates               | Location                | Abstract Deadline               | Link |
 |--------------------------------------------------------------------------------|----------------------|--------------------------|----------------------------------------------|------|
 | ASM Microbe 2026 (ASM Microbe)                                                | Jun 4–8, 2026        | Washington, DC           | Late-breaking abstracts Apr 1–15, 2026       | [More](https://asm.org/events/asm-microbe/home) |
 | Conference on Beneficial Microbes (CBM/ISS)                                   | Jul 19–23, 2026      | Madison, WI              | Late 2025 (competitive, TBD)                 | [More](https://conferences.union.wisc.edu/microbes/) |
@@ -46,7 +46,7 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 
 ## Toxicology Conferences
 
-| Conference Name (Abbrev.)                                 | Dates                | Location             | Abstract Deadline                                         | Link |
+| Conference Name                               | Dates                | Location             | Abstract Deadline                                         | Link |
 |------------------------------------------------------------|----------------------|----------------------|----------------------------------------------------------------------|------|
 | SOT 65th Annual Meeting & ToxExpo (SOT)                   | Mar 22–25, 2026      | San Diego, CA        | Abstract: Aug 15 – Nov 13, 2025<br>Session proposals by May 15, 2025 | [More](https://www.toxicology.org/2026/) |
 | ACT 47th Annual Meeting (American College of Toxicology)  | Nov 15–18, 2026      | San Antonio, TX      | Session proposals by Dec 15, 2025; Abstract window mid‑2026 (TBA)     | [More](https://www.actox.org) |
@@ -57,14 +57,14 @@ This list covers conferences in Microbiome, Dental research, Toxicology, Informa
 
 ## Oral/Dental
 
-| Conference Name (Abbrev.)                                                      | Dates                | Location            | Abstract Deadline                          | Link |
+| Conference Name                                                      | Dates                | Location            | Abstract Deadline                          | Link |
 |---------------------------------------------------------------------------------|-----------------------|---------------------|---------------------------------------------|------|
 | IADR / AADOCR / CADR General Session & Exhibition (IADR)                       | Mar 25–28, 2026       | San Diego, CA        | Abstracts due Oct 22, 2025; Sessions by Sep 29, 2025 | [More](https://www.iadr.org/events/upcoming-events/iadraadocrcadr-general-session-exhibition) |
 
 
 ## One health
 
-| Conference Name (Abbrev.)                                           | Dates               | Location               | Abstract Deadline                 | Link |
+| Conference Name                                        | Dates               | Location               | Abstract Deadline                 | Link |
 |----------------------------------------------------------------------|---------------------|------------------------|-----------------------------------------------------|------|
 | One Health Research Symposium (Global One Health Academy)           | Apr 14, 2026         | Raleigh, NC (NCSU)     | Registration by Apr 1, 2026 (TBA)                  | [More](https://provost.ncsu.edu/global-one-health-academy/event/2026-one-health-research-sympsoium/) |
 | One Health Microbiome Symposium (PSU Microbiome Center)             | May 13–14, 2026      | University Park, PA    | Abstracts due Apr 2026 (TBA)                       | [More](https://www.huck.psu.edu/institutes-and-centers/microbiome-center/event/2026-one-health-microbiome-symposium) |
